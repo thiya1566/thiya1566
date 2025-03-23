@@ -1,5 +1,5 @@
 # 💫 About Me:
-1. I am a graduate with a strong passion for embedded systems.  <br>2. I am actively looking to collaborate with C programming enthusiasts and learners.  <br>3. I am seeking guidance and opportunities with companies specializing in embedded systems.  <br>4. I am currently enhancing my skills in embedded systems to stay ahead in the field.  <br>5. Fun fact: I can spend hours debugging code and still find joy in solving the toughest bugs!  <br>
+ 1. I am a graduate with a strong passion for embedded systems.  <br>2. I am actively looking to collaborate with C programming enthusiasts and learners.  <br>3. I am seeking guidance and opportunities with companies specializing in embedded systems.  <br>4. I am currently enhancing my skills in embedded systems to stay ahead in the field.  <br>5. Fun fact: I can spend hours debugging code and still find joy in solving the toughest bugs!  <br>
 
 
 # 💻 Tech Stack:
